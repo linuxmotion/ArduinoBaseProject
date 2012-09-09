@@ -13,3 +13,7 @@
 
 # Compiled hex program
 *.hex
+
+
+#misc
+*~
